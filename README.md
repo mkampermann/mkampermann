@@ -3,7 +3,7 @@
 - 🧬 Procedural Map Generation
 - 💻 Java, JavaScript, Python
 - 🏢 Working at SAP SE
-- 🌐 aerosys.blog
+- 🌐 [aerosys.blog](https://aerosys.blog)
 - 📫 mail@aerosys.blog
 - ❌ Please no Job Offers or Spam!
 
