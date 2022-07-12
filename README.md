@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkampermann
-- ⚔️🛡 RPG Maker Plugin Developer
+- ⚔️ RPG Maker Plugin Developer
 - 🧬 Procedural Map Generation
-- 💻 Java, JavaScript, Python
+- 💻 Java, JavaScript, React, NodeJS, Python
 - 🏢 Working at SAP SE
 - 🌐 [aerosys.blog](https://aerosys.blog)
 - 📫 mail@aerosys.blog
